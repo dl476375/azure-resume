@@ -1,2 +1,1 @@
-# azure-resume
-My own azure resume 
+Welcome to Technicalsol
